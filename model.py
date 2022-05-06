@@ -1,5 +1,5 @@
 import warnings
-
+import itertools
 import matplotlib.pyplot as plt
 warnings.filterwarnings("ignore")
 plt.style.use('fivethirtyeight')
